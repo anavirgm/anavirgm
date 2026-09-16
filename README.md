@@ -1,11 +1,30 @@
 
-# Hello World, I´m Ana, be very welcome
+<h1 data-importer="text" align="center">Hello World, I´m Ana, be very welcome</h1>
 
+
+
+<div align="center">
+  <a href="https://www.linkedin.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+  </a>
+    <a href="https://www.youtube.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="youtube logo" />
+  </a>
+  <a href="https://discord.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
+  </a>
+
+</div>
+
+
+<div align="center">
+<img data-importer="snake" src="https://raw.githubusercontent.com/anavirgm/anavirgm/snake-output/snake.svg" alt="Snake animation" />
+</div>
 ---
 
 <div align="center">
 
-## `$ cat stack.txt`
+## `$ mystack.txt`
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,flutter,python,nodejs,firebase,supabase,js,tailwind,flask,mysql,git,github,vercel,docker&perline=8" alt="stack">
 
