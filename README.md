@@ -1,6 +1,10 @@
 
 # Hello World, I´m Ana, be very welcome
 
+<div align="center">
+<img data-importer="snake" src="https://raw.githubusercontent.com/anavirgm/anavirgm/snake-output/snake.svg" alt="Snake animation" />
+</div>
+
 ---
 
 <div align="center">
