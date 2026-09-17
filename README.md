@@ -12,8 +12,8 @@
   <a href="https://anavirgm.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/_Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://github.com/anavirgm" target="_blank">
-    <img src="https://img.shields.io/badge/_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://www.linkedin.com/in/ana-mota-b68494367" target="_blank">
+    <img src="https://img.shields.io/badge/_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:anavirgm@outlook.com">
     <img src="https://img.shields.io/badge/_Contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
