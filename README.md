@@ -8,13 +8,16 @@
 
 <p align="center">
   <a href="https://anavirgm.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/_Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/ana-mota-b68494367" target="_blank">
-    <img src="https://img.shields.io/badge/_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:anavirgm@outlook.com">
-    <img src="https://img.shields.io/badge/_Contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/anavirgm/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
