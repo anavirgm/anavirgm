@@ -1,45 +1,64 @@
-
-<h1 data-importer="text" align="center">Hello World, I´m Ana, be very welcome</h1>
-
-
-
-<div align="center">
-  <a href="https://www.linkedin.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-  </a>
-    <a href="https://www.youtube.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="youtube logo" />
-  </a>
-  <a href="https://discord.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
-  </a>
-
-</div>
-
-
-<div align="center">
-<img data-importer="snake" src="https://raw.githubusercontent.com/anavirgm/anavirgm/snake-output/snake.svg" alt="Snake animation" />
-</div>
----
-
 <div align="center">
 
-## `$ mystack.txt`
+<!-- ENCABEZADO / TERMINAL -->
+<a href="https://anavirgm.vercel.app" target="_blank">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=61DAFB&center=true&vCenter=true&width=680&height=70&lines=Ana+Mota;Ingeniera+de+Sistemas+%E2%80%A2+Full-Stack;React+%E2%80%A2+Next.js+%E2%80%A2+Node.js;Flutter+%E2%80%A2+Python+%E2%80%A2+Tailwind" alt="Terminal Header" />
+</a>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,flutter,python,nodejs,firebase,supabase,js,tailwind,flask,mysql,git,github,vercel,docker&perline=8" alt="stack">
+<p>💻 <b>Ingeniera de Sistemas</b> enfocada en construir backends robustos y arquitecturas escalables para la próxima generación de infraestructura digital.</p>
 
-</div>
-
----
-
-<div align="center">
-
+<!-- SOCIAL SIGNALS & CONTACT -->
+<p align="center">
   <a href="https://anavirgm.vercel.app" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&height=50&lines=CONTINUE%3F+PRESS+START;VISITA+MI+PORTAFOLIO" alt="Press Start Portfolio">
+    <img src="https://img.shields.io/badge/_Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
+  <a href="https://github.com/anavirgm" target="_blank">
+    <img src="https://img.shields.io/badge/_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:anavirgm@outlook.com">
+    <img src="https://img.shields.io/badge/_Contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-  <br>
+<!-- CONTADOR DE VISITAS -->
+<img src="https://count.getloli.com/@:anavirgm?theme=booru-vp&padding=7&offset=0&scale=0.5&align=top&pixelated=1&darkmode=auto" alt="Visitas" />
 
-  <sub><code>Hecho con ❤️ en Venezuela</code></sub>
+<br>
+
+---
+
+<!-- STACK TECNOLÓGICO -->
+<h3><code>anavirgm@github ~ $ cat stack.txt</code></h3>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,flutter,python,nodejs,firebase,supabase,js,tailwind,flask,mysql,git,github,vercel,docker&perline=8" alt="Tech Stack" />
+
+<br>
+
+---
+
+<!-- ESTADÍSTICAS Y SIGNALS CONFIABLES -->
+<h3><code>anavirgm@github ~ $ ./fetch_stats.sh</code></h3>
+
+<br>
+
+<!-- Racha de commits continua -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anavirgm&theme=dark&background=0D1117&border=61DAFB&stroke=61DAFB&ring=61DAFB&fire=61DAFB&currStreakNum=61DAFB" width="65%" alt="GitHub Streak" />
+
+<br>
+
+---
+
+<!-- JUEGO Y FINAL -->
+<h3><code>anavirgm@github ~ $ ./start_game.sh</code></h3>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anavirgm/anavirgm/snake-output/snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anavirgm/anavirgm/snake-output/snake.svg">
+  <img src="https://raw.githubusercontent.com/anavirgm/anavirgm/snake-output/snake.svg" alt="Snake animation" />
+</picture>
+
+<br><br>
+
+<sub><code>Hecho con ❤️ en Venezuela 🇻🇪</code></sub>
 
 </div>
